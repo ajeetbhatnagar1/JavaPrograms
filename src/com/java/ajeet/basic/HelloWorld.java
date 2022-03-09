@@ -1,4 +1,4 @@
-package com.java.ajeet;
+package com.java.ajeet.basic;
 
 /**
  * Simple Hello World Program.
@@ -11,5 +11,6 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello World...");
 		System.out.println("Hello i am Ajeet");
+		System.out.println("Testing my project");
 	}
 }

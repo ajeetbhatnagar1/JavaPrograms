@@ -1,4 +1,4 @@
-package com.java.ajeet;
+package com.java.ajeet.designpatterns;
 
 /**
  * The Singleton's purpose is to control object creation, limiting the number of objects to only one. 

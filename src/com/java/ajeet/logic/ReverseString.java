@@ -1,4 +1,4 @@
-package com.java.ajeet;
+package com.java.ajeet.logic;
 
 /**
  * Program to reverse a string using recursive algorithm
